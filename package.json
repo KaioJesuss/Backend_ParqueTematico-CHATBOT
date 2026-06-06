@@ -1,0 +1,25 @@
+{
+  "name": "backend_parquetematico-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/KaioJesuss/Backend_ParqueTematico-CHATBOT#readme",
+  "bugs": {
+    "url": "https://github.com/KaioJesuss/Backend_ParqueTematico-CHATBOT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaioJesuss/Backend_ParqueTematico-CHATBOT.git"
+  },
+  "license": "ISC",
+  "author": "KaioJesus",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.5"
+  }
+}
